@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Garance !
 
-<!--
-**garance1902/garance1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en Master  à Sorbonne Université  
+🌍 Intéressée par l'analyse de données, la géographie et l'environnement
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmation et analyse de données
+
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+### En apprentissage
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## 🎓 Formation
+
+**Master GeoSud — Sorbonne Université**
+
+- Analyse de données
+- Programmation en R
+- Initiation à Python
+- Données géographiques et analyse spatiale
+
+## 📚 À propos de moi
+
+Je développe mes compétences en analyse de données et en programmation, notamment avec le langage R, et je vais prochainement apprendre Python.
